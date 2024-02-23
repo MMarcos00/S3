@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mostrar un Mensaje de Aprobación o Rechazo de Préstamo/1.0.0": {
+        "runtime": {
+          "Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mostrar un Mensaje de Aprobación o Rechazo de Préstamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Determinar si un Número es Par o Impar/1.0.0": {
+        "runtime": {
+          "Determinar si un Número es Par o Impar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Determinar si un Número es Par o Impar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

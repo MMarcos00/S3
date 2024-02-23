@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mostrar un Mensaje de Bienvenida en Diferentes Idiomas/1.0.0": {
+        "runtime": {
+          "Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mostrar un Mensaje de Bienvenida en Diferentes Idiomas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

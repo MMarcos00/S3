@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\bin\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.exe
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\bin\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.deps.json
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\bin\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\bin\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.dll
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\bin\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.pdb
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\obj\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\obj\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\obj\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\obj\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\obj\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.dll
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\obj\Debug\net8.0\refint\Mostrar el Día de la Semana a partir de un Número.dll
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\obj\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.pdb
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\obj\Debug\net8.0\Mostrar el Día de la Semana a partir de un Número.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Mostrar el Día de la Semana a partir de un Número\obj\Debug\net8.0\ref\Mostrar el Día de la Semana a partir de un Número.dll

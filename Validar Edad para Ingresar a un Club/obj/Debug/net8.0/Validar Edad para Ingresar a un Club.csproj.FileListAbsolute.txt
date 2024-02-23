@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\bin\Debug\net8.0\Validar Edad para Ingresar a un Club.exe
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\bin\Debug\net8.0\Validar Edad para Ingresar a un Club.deps.json
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\bin\Debug\net8.0\Validar Edad para Ingresar a un Club.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\bin\Debug\net8.0\Validar Edad para Ingresar a un Club.dll
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\bin\Debug\net8.0\Validar Edad para Ingresar a un Club.pdb
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\obj\Debug\net8.0\Validar Edad para Ingresar a un Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\obj\Debug\net8.0\Validar Edad para Ingresar a un Club.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\obj\Debug\net8.0\Validar Edad para Ingresar a un Club.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\obj\Debug\net8.0\Validar Edad para Ingresar a un Club.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\obj\Debug\net8.0\Validar Edad para Ingresar a un Club.dll
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\obj\Debug\net8.0\refint\Validar Edad para Ingresar a un Club.dll
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\obj\Debug\net8.0\Validar Edad para Ingresar a un Club.pdb
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\obj\Debug\net8.0\Validar Edad para Ingresar a un Club.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Validar Edad para Ingresar a un Club\obj\Debug\net8.0\ref\Validar Edad para Ingresar a un Club.dll

@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\bin\Debug\net8.0\Calcular el Mayor de Tres Números.exe
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\bin\Debug\net8.0\Calcular el Mayor de Tres Números.deps.json
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\bin\Debug\net8.0\Calcular el Mayor de Tres Números.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\bin\Debug\net8.0\Calcular el Mayor de Tres Números.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\bin\Debug\net8.0\Calcular el Mayor de Tres Números.pdb
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\obj\Debug\net8.0\Calcular el Mayor de Tres Números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\obj\Debug\net8.0\Calcular el Mayor de Tres Números.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\obj\Debug\net8.0\Calcular el Mayor de Tres Números.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\obj\Debug\net8.0\Calcular el Mayor de Tres Números.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\obj\Debug\net8.0\Calcular el Mayor de Tres Números.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\obj\Debug\net8.0\refint\Calcular el Mayor de Tres Números.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\obj\Debug\net8.0\Calcular el Mayor de Tres Números.pdb
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\obj\Debug\net8.0\Calcular el Mayor de Tres Números.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Mayor de Tres Números\obj\Debug\net8.0\ref\Calcular el Mayor de Tres Números.dll

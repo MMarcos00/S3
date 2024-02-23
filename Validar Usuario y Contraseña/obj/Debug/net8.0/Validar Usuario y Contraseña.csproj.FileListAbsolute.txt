@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\bin\Debug\net8.0\Validar Usuario y Contraseña.exe
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\bin\Debug\net8.0\Validar Usuario y Contraseña.deps.json
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\bin\Debug\net8.0\Validar Usuario y Contraseña.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\bin\Debug\net8.0\Validar Usuario y Contraseña.dll
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\bin\Debug\net8.0\Validar Usuario y Contraseña.pdb
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\obj\Debug\net8.0\Validar Usuario y Contraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\obj\Debug\net8.0\Validar Usuario y Contraseña.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\obj\Debug\net8.0\Validar Usuario y Contraseña.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\obj\Debug\net8.0\Validar Usuario y Contraseña.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\obj\Debug\net8.0\Validar Usuario y Contraseña.dll
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\obj\Debug\net8.0\refint\Validar Usuario y Contraseña.dll
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\obj\Debug\net8.0\Validar Usuario y Contraseña.pdb
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\obj\Debug\net8.0\Validar Usuario y Contraseña.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Validar Usuario y Contraseña\obj\Debug\net8.0\ref\Validar Usuario y Contraseña.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Convertir un Número de Letra a Número/1.0.0": {
+        "runtime": {
+          "Convertir un Número de Letra a Número.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convertir un Número de Letra a Número/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

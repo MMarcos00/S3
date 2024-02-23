@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\bin\Debug\net8.0\Evaluar la Calificación de un Examen.exe
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\bin\Debug\net8.0\Evaluar la Calificación de un Examen.deps.json
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\bin\Debug\net8.0\Evaluar la Calificación de un Examen.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\bin\Debug\net8.0\Evaluar la Calificación de un Examen.dll
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\bin\Debug\net8.0\Evaluar la Calificación de un Examen.pdb
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\obj\Debug\net8.0\Evaluar la Calificación de un Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\obj\Debug\net8.0\Evaluar la Calificación de un Examen.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\obj\Debug\net8.0\Evaluar la Calificación de un Examen.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\obj\Debug\net8.0\Evaluar la Calificación de un Examen.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\obj\Debug\net8.0\Evaluar la Calificación de un Examen.dll
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\obj\Debug\net8.0\refint\Evaluar la Calificación de un Examen.dll
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\obj\Debug\net8.0\Evaluar la Calificación de un Examen.pdb
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\obj\Debug\net8.0\Evaluar la Calificación de un Examen.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Evaluar la Calificación de un Examen\obj\Debug\net8.0\ref\Evaluar la Calificación de un Examen.dll

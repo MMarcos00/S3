@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\bin\Debug\net8.0\Calcular el Precio Final de un Producto.exe
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\bin\Debug\net8.0\Calcular el Precio Final de un Producto.deps.json
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\bin\Debug\net8.0\Calcular el Precio Final de un Producto.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\bin\Debug\net8.0\Calcular el Precio Final de un Producto.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\bin\Debug\net8.0\Calcular el Precio Final de un Producto.pdb
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\obj\Debug\net8.0\Calcular el Precio Final de un Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\obj\Debug\net8.0\Calcular el Precio Final de un Producto.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\obj\Debug\net8.0\Calcular el Precio Final de un Producto.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\obj\Debug\net8.0\Calcular el Precio Final de un Producto.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\obj\Debug\net8.0\Calcular el Precio Final de un Producto.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\obj\Debug\net8.0\refint\Calcular el Precio Final de un Producto.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\obj\Debug\net8.0\Calcular el Precio Final de un Producto.pdb
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\obj\Debug\net8.0\Calcular el Precio Final de un Producto.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Precio Final de un Producto\obj\Debug\net8.0\ref\Calcular el Precio Final de un Producto.dll

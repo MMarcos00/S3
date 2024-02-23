@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\bin\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.exe
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\bin\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.deps.json
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\bin\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\bin\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.dll
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\bin\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.pdb
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\obj\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\obj\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\obj\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\obj\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\obj\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.dll
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\obj\Debug\net8.0\refint\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.dll
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\obj\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.pdb
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\obj\Debug\net8.0\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo\obj\Debug\net8.0\ref\Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.dll

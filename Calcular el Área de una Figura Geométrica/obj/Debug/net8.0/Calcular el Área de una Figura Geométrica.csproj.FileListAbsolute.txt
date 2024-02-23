@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\obj\Debug\net8.0\Calcular el Área de una Figura Geométrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\obj\Debug\net8.0\Calcular el Área de una Figura Geométrica.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\obj\Debug\net8.0\Calcular el Área de una Figura Geométrica.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\obj\Debug\net8.0\Calcular el Área de una Figura Geométrica.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\bin\Debug\net8.0\Calcular el Área de una Figura Geométrica.exe
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\bin\Debug\net8.0\Calcular el Área de una Figura Geométrica.deps.json
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\bin\Debug\net8.0\Calcular el Área de una Figura Geométrica.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\bin\Debug\net8.0\Calcular el Área de una Figura Geométrica.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\bin\Debug\net8.0\Calcular el Área de una Figura Geométrica.pdb
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\obj\Debug\net8.0\Calcular el Área de una Figura Geométrica.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\obj\Debug\net8.0\refint\Calcular el Área de una Figura Geométrica.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\obj\Debug\net8.0\Calcular el Área de una Figura Geométrica.pdb
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\obj\Debug\net8.0\Calcular el Área de una Figura Geométrica.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Área de una Figura Geométrica\obj\Debug\net8.0\ref\Calcular el Área de una Figura Geométrica.dll

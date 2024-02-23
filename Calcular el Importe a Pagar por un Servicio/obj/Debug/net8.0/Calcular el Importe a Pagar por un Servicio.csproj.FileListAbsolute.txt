@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\bin\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.exe
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\bin\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.deps.json
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\bin\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\bin\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\bin\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.pdb
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\obj\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\obj\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\obj\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\obj\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\obj\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\obj\Debug\net8.0\refint\Calcular el Importe a Pagar por un Servicio.dll
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\obj\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.pdb
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\obj\Debug\net8.0\Calcular el Importe a Pagar por un Servicio.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Calcular el Importe a Pagar por un Servicio\obj\Debug\net8.0\ref\Calcular el Importe a Pagar por un Servicio.dll

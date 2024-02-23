@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\bin\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.exe
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\bin\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.deps.json
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\bin\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\bin\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.dll
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\bin\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.pdb
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\obj\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\obj\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\obj\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\obj\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\obj\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.dll
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\obj\Debug\net8.0\refint\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.dll
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\obj\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.pdb
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\obj\Debug\net8.0\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas\obj\Debug\net8.0\ref\Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.dll

@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\bin\Debug\net8.0\Determinar si un Número es Par o Impar.exe
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\bin\Debug\net8.0\Determinar si un Número es Par o Impar.deps.json
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\bin\Debug\net8.0\Determinar si un Número es Par o Impar.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\bin\Debug\net8.0\Determinar si un Número es Par o Impar.dll
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\bin\Debug\net8.0\Determinar si un Número es Par o Impar.pdb
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\obj\Debug\net8.0\Determinar si un Número es Par o Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\obj\Debug\net8.0\Determinar si un Número es Par o Impar.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\obj\Debug\net8.0\Determinar si un Número es Par o Impar.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\obj\Debug\net8.0\Determinar si un Número es Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\obj\Debug\net8.0\Determinar si un Número es Par o Impar.dll
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\obj\Debug\net8.0\refint\Determinar si un Número es Par o Impar.dll
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\obj\Debug\net8.0\Determinar si un Número es Par o Impar.pdb
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\obj\Debug\net8.0\Determinar si un Número es Par o Impar.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Determinar si un Número es Par o Impar\obj\Debug\net8.0\ref\Determinar si un Número es Par o Impar.dll

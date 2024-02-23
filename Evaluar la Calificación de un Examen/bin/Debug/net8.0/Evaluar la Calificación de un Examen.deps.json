@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Evaluar la Calificación de un Examen/1.0.0": {
+        "runtime": {
+          "Evaluar la Calificación de un Examen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evaluar la Calificación de un Examen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

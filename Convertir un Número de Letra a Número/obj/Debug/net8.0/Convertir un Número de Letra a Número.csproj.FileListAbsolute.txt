@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\bin\Debug\net8.0\Convertir un Número de Letra a Número.exe
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\bin\Debug\net8.0\Convertir un Número de Letra a Número.deps.json
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\bin\Debug\net8.0\Convertir un Número de Letra a Número.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\bin\Debug\net8.0\Convertir un Número de Letra a Número.dll
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\bin\Debug\net8.0\Convertir un Número de Letra a Número.pdb
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\obj\Debug\net8.0\Convertir un Número de Letra a Número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\obj\Debug\net8.0\Convertir un Número de Letra a Número.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\obj\Debug\net8.0\Convertir un Número de Letra a Número.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\obj\Debug\net8.0\Convertir un Número de Letra a Número.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\obj\Debug\net8.0\Convertir un Número de Letra a Número.dll
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\obj\Debug\net8.0\refint\Convertir un Número de Letra a Número.dll
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\obj\Debug\net8.0\Convertir un Número de Letra a Número.pdb
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\obj\Debug\net8.0\Convertir un Número de Letra a Número.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto2\Convertir un Número de Letra a Número\obj\Debug\net8.0\ref\Convertir un Número de Letra a Número.dll

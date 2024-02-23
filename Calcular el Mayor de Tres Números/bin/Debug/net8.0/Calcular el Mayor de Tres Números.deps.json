@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calcular el Mayor de Tres Números/1.0.0": {
+        "runtime": {
+          "Calcular el Mayor de Tres Números.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcular el Mayor de Tres Números/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

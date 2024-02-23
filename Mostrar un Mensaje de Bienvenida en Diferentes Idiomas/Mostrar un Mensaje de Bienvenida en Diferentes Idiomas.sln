@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mostrar un Mensaje de Bienvenida en Diferentes Idiomas", "Mostrar un Mensaje de Bienvenida en Diferentes Idiomas.csproj", "{D55213F5-01BA-41AD-A727-5C2FB65843A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D55213F5-01BA-41AD-A727-5C2FB65843A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55213F5-01BA-41AD-A727-5C2FB65843A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55213F5-01BA-41AD-A727-5C2FB65843A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55213F5-01BA-41AD-A727-5C2FB65843A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59422070-8F64-4AD6-AB59-0656AF5EDCBD}
+	EndGlobalSection
+EndGlobal
